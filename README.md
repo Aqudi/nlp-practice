@@ -11,15 +11,3 @@
 ```shell
 pip install -r requirements.txt
 ```
-
-### Markdown formatter pre-commit hook 적용하기
-
-```shell
-pre-commit install
-```
-
-### Ipynb 파일을 MD 파일로 변환하기
-
-```python
-python utils/ipynb2md.py
-```
